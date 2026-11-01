@@ -2,7 +2,7 @@
 
 🎓 Élève-ingénieur en **Intelligence Artificielle & Cybersécurité (IACS)** — ENSA de Béni Mellal (2e année du cycle ingénieur)
 
-🤖 Je conçois des produits d'IA de bout en bout : **RAG, NLP multilingue, ML opérationnel, IoT et plateformes cloud-native** (microservices, Docker, CI/CD).
+ Je conçois des produits d'IA de bout en bout : **RAG, NLP multilingue, ML opérationnel, IoT et plateformes cloud-native** (microservices, Docker, CI/CD).
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
@@ -20,7 +20,7 @@
 | **Warqa** | IA documentaire | Extraction automatique de factures (photos, scans, PDF) vers des données comptables structurées : LayoutXLM/LiLT fine-tunés, score de confiance, validation humaine. |
 | **Darija ↔ Français** | NLP | Pipeline complet de traduction neuronale : 87 000+ paires consolidées, tokenisation SentencePiece, fine-tuning NLLB, inférence locale. |
 
-### 🌱 En ce moment
+### En ce moment
 
 - 2e année du cycle ingénieur IACS à l'ENSA de Béni Mellal
 - Ouvert aux projets collaboratifs, stages et PFE autour de l'IA, de l'IoT et du full stack
